@@ -1,0 +1,20 @@
+.display {
+    width: 90%;
+    height: 100px;
+    padding: 5px;
+    overflow: scroll;
+    margin: auto;
+    vertical-align: middle;
+    color: white;
+    background-color: black;
+}
+
+.display__text{
+    text-align: center;
+    display: block;
+    overflow: scroll;
+    text-overflow: ellipsis;
+    height:100%;
+    width: 80%;
+    margin: auto;
+}

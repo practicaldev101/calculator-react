@@ -1,0 +1,27 @@
+.container {
+    background-color: rgb(43, 43, 43);
+    width: 350px;
+    color: white;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5px;
+}
+
+.container__title{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin: 10px;
+}
+.row {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+}
