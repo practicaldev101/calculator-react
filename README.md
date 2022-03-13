@@ -2,4 +2,4 @@
 
 Calculadora básica hecha con React.
 
-(DEmo)[]
+![Demo Image](https://github.com/practicaldev101/calculator-react/blob/master/docs/demo.png)
